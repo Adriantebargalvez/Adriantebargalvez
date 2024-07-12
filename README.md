@@ -45,7 +45,6 @@ Abrimos dos terminales cmd dentro del Visual Studio Code<br>
 4 - Ver Perfil, Ver Categorias y Ver nuestra pagina de informacion (en nosotros)<br>
 5 - Tienes un correo en admin (En este caso es adrian@gmail.com Contraseña 123456)<br>
  |<br>
- \/<br>
 Puedes crear producto nuevo (Nombre, Precio, TallaDisponible, tallasDisponiblesZapato,oferta,Categoria que quieras Ropa Hombre, Ropa Mujer y Men's Shoe,imagen,imagenLado,imagenDetras y descripcion)<br>
 Editar producto (Nombre, Precio, TallaDisponible, tallasDisponiblesZapato,oferta,Categoria,imagen,imagenLado,imagenDetras y descripcion)<br>
 Eliminar Producto</p>
