@@ -31,23 +31,23 @@ Me llamo Adrian, soy un desarrollador full stack y aqui en mi Github muestro alg
 </a>
 </p>
 <p>
-TIENDA DE ROPATIENDA DE ROPA
-Es una tienda de ropa la cual estoy actualizando diariamente, esta en mi Github Adriantebargalvez 
+TIENDA DE ROPATIENDA DE ROPA<br>
+Es una tienda de ropa la cual estoy actualizando diariamente, esta en mi Github Adriantebargalvez <br>
 
-COMO SE INICIA
-Abrimos dos terminales cmd dentro del Visual Studio Code
-1 CMD ponemos "cd Tienda" y dentro de tienda ponemos "ng serve"
-2 CMD ponemos "cd back-ropahombre" y dentro de back-ropahombre ponemos "npm start dev"
+COMO SE INICIA<br>
+Abrimos dos terminales cmd dentro del Visual Studio Code<br>
+1 CMD ponemos "cd Tienda" y dentro de tienda ponemos "ng serve"<br>
+2 CMD ponemos "cd back-ropahombre" y dentro de back-ropahombre ponemos "npm start dev"<br>
 
-1- Registro y Inicio de sesión (CORREO Y NOMBRE SE GUARDA TODO EN FIREBASE ) 
-2 - Visualizar novedades (ropa o zapatillas) ,Visualización de ropa, Visualizar las prendas Hot (Son las prendas que tiene una valoracion de 4 a 5 estrellas de media)Buscar una prenda por nombre , Ver información de la prenda y Ver comentarios
-3 - Añadir a carrito,Eliminar de carrito,Añadir a favoritos,Eliminar de favoritos y Comprar
-4 - Ver Perfil, Ver Categorias y Ver nuestra pagina de informacion (en nosotros)
-5 - Tienes un correo en admin (En este caso es adrian@gmail.com Contraseña 123456)
- |
- \/
-Puedes crear producto nuevo (Nombre, Precio, TallaDisponible, tallasDisponiblesZapato,oferta,Categoria que quieras Ropa Hombre, Ropa Mujer y Men's Shoe,imagen,imagenLado,imagenDetras y descripcion)
-Editar producto (Nombre, Precio, TallaDisponible, tallasDisponiblesZapato,oferta,Categoria,imagen,imagenLado,imagenDetras y descripcion)
+1- Registro y Inicio de sesión (CORREO Y NOMBRE SE GUARDA TODO EN FIREBASE ) <br>
+2 - Visualizar novedades (ropa o zapatillas) ,Visualización de ropa, Visualizar las prendas Hot (Son las prendas que tiene una valoracion de 4 a 5 estrellas de media)Buscar una prenda por nombre , Ver información de la <br>prenda y Ver comentarios
+3 - Añadir a carrito,Eliminar de carrito,Añadir a favoritos,Eliminar de favoritos y Comprar<br>
+4 - Ver Perfil, Ver Categorias y Ver nuestra pagina de informacion (en nosotros)<br>
+5 - Tienes un correo en admin (En este caso es adrian@gmail.com Contraseña 123456)<br>
+ |<br>
+ \/<br>
+Puedes crear producto nuevo (Nombre, Precio, TallaDisponible, tallasDisponiblesZapato,oferta,Categoria que quieras Ropa Hombre, Ropa Mujer y Men's Shoe,imagen,imagenLado,imagenDetras y descripcion)<br>
+Editar producto (Nombre, Precio, TallaDisponible, tallasDisponiblesZapato,oferta,Categoria,imagen,imagenLado,imagenDetras y descripcion)<br>
 Eliminar Producto</p>
 </div>
                                                                                       
