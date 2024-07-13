@@ -23,7 +23,7 @@ Me llamo Adrian, soy un desarrollador full stack y aqui en mi Github muestro alg
 <td width="50%">
 <h3 align="center">Tienda Online</h3>
 <div align="center">
-<a href="https://github.com/Adriantebargalvez/PROJECTS/tree/main/AngularClase" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Adriantebargalvez/PROJECTS/tree/main/AngularClase" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Adriantebargalvez/PROJECTS/tree/main/AngularClase" target="_blank">
    
