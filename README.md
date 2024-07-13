@@ -15,7 +15,7 @@
 
 ## Sobre mi
 
-Me llamo Adrian, soy un desarrollador full stack y aqui en mi Github muestro algunos de mis proyectos quer estoy acabando 
+Me llamo Adrian, soy un desarrollador full stack y aqui en mi Github muestro algunos de mis proyectos que estoy acabando 
 <br>
 <h3 align="left">🛠 Language and tools</h3>
 
