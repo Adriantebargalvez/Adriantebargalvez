@@ -4,6 +4,7 @@
 <img src="https://i.imgur.com/VNWa8v6.png">
 
 
+
 <a href="https://www.linkedin.com/in/adrian-tebar-galvez-970b62203/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
@@ -23,7 +24,7 @@ Me llamo Adrian, soy un desarrollador full stack y aqui en mi Github muestro alg
 <td width="50%">
 <h3 align="center">Tienda Online</h3>
 <div align="center">
-<a href="https://github.com/Adriantebargalvez/PROJECTS/tree/main/AngularClase" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Adriantebargalvez/PROJECTS/tree/main/AngularClase" target="_blank"><img src="https://i.imgur.com/bbhoGXE.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Adriantebargalvez/PROJECTS/tree/main/AngularClase" target="_blank">
    
