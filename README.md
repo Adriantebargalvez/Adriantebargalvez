@@ -19,8 +19,6 @@ Me llamo Adrian, soy un desarrollador full stack y aqui en mi Github muestro alg
 <br>
 <h3 align="left">🛠 Language and tools</h3>
 
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
