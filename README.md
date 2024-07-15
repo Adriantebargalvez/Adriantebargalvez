@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/adrian-tebar-galvez-970b62203/">Adrian</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/0Hxr7Ps.png">
+<img src="https://i.imgur.com/VNWa8v6.png">
 
 
 
