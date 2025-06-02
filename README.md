@@ -18,7 +18,7 @@ Me llamo Adrian, soy un desarrollador full stack y aqui en mi Github muestro alg
 <h3 align="left">🛠 Language and tools</h3>
 
 
-  <img src="" height="40" alt=""  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/angular.svg" height="40" alt=""  />
 
  
 
