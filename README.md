@@ -27,7 +27,7 @@ Me llamo Adrian, soy un desarrollador full stack y aqui en mi Github muestro alg
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" height="40" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" height="40" alt="Spring Boot" />
   <!-- reemplaza esta línea anterior -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40" alt="Node.js" /> -->
+<!-- <img src="assets/Nodejs-logo.png" title="Node.js" height="40" alt="Node.js" /> -->
 
 <!-- por esta línea nueva -->
 <img src="https://nodejs.org/static/images/logo.svg" title="Node.js" height="40" alt="Node.js" />
